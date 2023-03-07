@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/lalwaniyash/food-express/static/css/main.31d6cfe0.css",
+    "main.js": "/lalwaniyash/food-express/static/js/main.ae8e792e.js",
+    "index.html": "/lalwaniyash/food-express/index.html",
+    "main.ae8e792e.js.map": "/lalwaniyash/food-express/static/js/main.ae8e792e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ae8e792e.js"
+  ]
+}
